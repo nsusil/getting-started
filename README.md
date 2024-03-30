@@ -1,2 +1,2 @@
 # Getting started
-This LAB is setup for Docker Lab 
+This LAB is setup for Docker related modules
